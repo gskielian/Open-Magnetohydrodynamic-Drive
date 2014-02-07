@@ -6,7 +6,9 @@ Lorentz's law has that `F = I L x B`, so if we were able to create
 
 then we would cretea `x` newtons of force on the water inside.
 
-**The Strategy** is to dump as much current through our high magnetic field channel to the order of magnitude of water displacement.
+### The Strategy
+
+Dump as much current through our high magnetic field channel to the order of magnitude of water displacement.
 
 ### Circuit Diagram
 
